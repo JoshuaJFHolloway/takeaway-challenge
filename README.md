@@ -1,3 +1,10 @@
+Time
+
+Unfortunately I had very little time this weekend to complete this challenge.
+Therefore, I will be making sure I complete it in my own time over the coming week.
+The project is in its infancy and its quite annoying.
+
+
 Takeaway Challenge
 ==================
 ```
